@@ -12,7 +12,6 @@ Simple generative sketches built with **[p5.js](https://p5js.org/)** that draw e
    ```
    http://localhost:5500
    ```
-4. Move your mouse over the canvas to explore the effect 
 
 ### Built With
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/P5js_Logo.svg/2560px-P5js_Logo.svg.png" alt="p5.js" style="width:40px;"/>](https://p5js.org/) - Creative coding library for JavaScript  
@@ -27,6 +26,12 @@ Simple generative sketches built with **[p5.js](https://p5js.org/)** that draw e
 
 <img src="stars/stars-demo.png" alt="" style=""/>
 
+---
 ### `lines/sketch.js`
 
 <img src="lines/lines-demo.png" alt="" style=""/>
+
+---
+### `curve/sketch.js` (static)
+
+<img src="curve/curve-demo.png" alt="" style=""/>
