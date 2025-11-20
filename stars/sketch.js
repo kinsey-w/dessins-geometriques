@@ -1,3 +1,4 @@
+let DESSIN = "";
 let CX = 0, CY = 0;
 let NP = 480, PI = Math.PI;
 let M = 3, N = 4, K = 1;

@@ -1,3 +1,4 @@
+let DESSIN = "";
 let AA = 0, RR;
 let NP = 480, PI = Math.PI;
 let X, Y;
